@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Services\\TicketShop.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Domain\\TicketShop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Domain\\TicketShop.Domain.csproj",
+        "projectName": "TicketShop.Domain",
+        "projectPath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Domain\\TicketShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\TODOROVSKI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TODOROVSKI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Repository\\TicketShop.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Repository\\TicketShop.Repository.csproj",
+        "projectName": "TicketShop.Repository",
+        "projectPath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Repository\\TicketShop.Repository.csproj",
+        "packagesPath": "C:\\Users\\TODOROVSKI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TODOROVSKI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Domain\\TicketShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Domain\\TicketShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Services\\TicketShop.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Services\\TicketShop.Services.csproj",
+        "projectName": "TicketShop.Services",
+        "projectPath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Services\\TicketShop.Services.csproj",
+        "packagesPath": "C:\\Users\\TODOROVSKI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TODOROVSKI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Domain\\TicketShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Domain\\TicketShop.Domain.csproj"
+              },
+              "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Repository\\TicketShop.Repository.csproj": {
+                "projectPath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Repository\\TicketShop.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

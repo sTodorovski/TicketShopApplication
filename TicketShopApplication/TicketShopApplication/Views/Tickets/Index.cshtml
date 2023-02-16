@@ -1,0 +1,54 @@
+﻿@model List<TicketShop.Domain.DomainModels.Ticket>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<body style="background-color:#f8f9fa">
+<div class="container">
+    <div class="row">
+        <a class="btn btn-success" asp-action="Create">Add New Movie Screening!</a>
+    </div>
+    
+       @for (int i = 0; i < Model.Count; i++)
+       {
+           var item = Model[i];
+
+           if(i % 3 == 0)
+           {
+               @:<div class="row">
+           }
+
+        <div class="col-md-3 m-4">
+            <div class="card" style="width: 18rem; height: 48rem;">
+                <img class="card-img-top" src="@item.Poster" style="height: 70%;" alt="Movie ticket!">
+
+                <div class="card-body">
+                    <h3 class="card-title">@item.Movie</h3>
+                    <p class="card-text">@item.Description</p>
+                    <p class="card-text">@item.Genre</p>
+                    <p class="card-text">★ @item.Rating / 10</p>
+                    <p class="card-text">@item.Date</p>
+                    
+                    
+                    <h6>Price: @item.Price ДЕН</h6>
+                </div>
+
+                <div class="card-footer">
+                    <a asp-controller="Tickets" asp-action="AddTicketToCart" asp-route-id="@item.Id" class="btn btn-info">Add to Cart</a>
+                    <a asp-controller="Tickets" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+                </div>
+            </div>
+        </div>
+
+        
+
+
+           if(i % 3 == 2)
+           {
+               @:</div>
+           }
+       }
+       
+</div>
+</body>

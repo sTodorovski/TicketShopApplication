@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20230216012915_eighth.cs" />
+    <Compile Remove="Migrations\20230216012915_eighth.Designer.cs" />
+    <Compile Remove="Migrations\20230216013144_ninth.cs" />
+    <Compile Remove="Migrations\20230216013144_ninth.Designer.cs" />
+    <Compile Remove="Migrations\20230216013246_tenth.cs" />
+    <Compile Remove="Migrations\20230216013246_tenth.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TicketShop.Domain\TicketShop.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

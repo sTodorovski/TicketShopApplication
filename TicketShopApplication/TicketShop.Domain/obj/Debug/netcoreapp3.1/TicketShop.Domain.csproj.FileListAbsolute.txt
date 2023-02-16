@@ -1,0 +1,10 @@
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Domain\bin\Debug\netcoreapp3.1\TicketShop.Domain.deps.json
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Domain\bin\Debug\netcoreapp3.1\TicketShop.Domain.dll
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Domain\bin\Debug\netcoreapp3.1\TicketShop.Domain.pdb
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.csproj.AssemblyReference.cache
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.AssemblyInfoInputs.cache
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.AssemblyInfo.cs
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.dll
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.pdb

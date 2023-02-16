@@ -1,0 +1,15 @@
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Services.deps.json
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Services.dll
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Services.pdb
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Domain.dll
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Repository.dll
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Domain.pdb
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Repository.pdb
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.csproj.AssemblyReference.cache
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.AssemblyInfoInputs.cache
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.AssemblyInfo.cs
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.csproj.CopyComplete
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.dll
+C:\Users\TODOROVSKI\Desktop\KinoMania\TicketShopApplication\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.pdb
